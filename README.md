@@ -1,4 +1,12 @@
-## Hi there 👋
+## BandieraRosa
+
+正感觉如鱼失水的软件工程大二学生
+
+“一些疑惑，就杀死了英雄，
+
+谎言取代承诺。”
+
+正焦虑于如何提升自己的c++/视觉开发能力。
 
 <!--
 **BandieraRosa/BandieraRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
